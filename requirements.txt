@@ -5,5 +5,5 @@ pyee==7.0.2
 pyppeteer==0.2.2
 soupsieve==2.0.1
 tqdm==4.46.1
-urllib3==1.25.9
+urllib3==1.26.5
 websockets==8.1
